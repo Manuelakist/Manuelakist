@@ -16,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
 
 ## GitHub Stats
 
@@ -26,13 +25,17 @@
 </p>
 <br>
 
-## Onde me encontrar
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manuelakist/Manuelakist/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
+
+---
+
 [![Email](https://img.shields.io/badge/Email-manuelaskist11%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelaskist11@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuela%20Skrsypcsak%20Kist-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-skrsypcsak-kist-a586792b2)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Manuelakist-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelakist)
 
----
-
-✨ *Obrigada por visitar meu perfil!*  
