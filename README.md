@@ -1,5 +1,5 @@
 <!-- Banner -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=251b9a&height=130&gradient)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=251b9a&height=170&gradient)
 
 
 # Manuela Skrsypcsak Kist
