@@ -2,32 +2,33 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Executa a cada 12 horas para manter atualizado (você pode mudar para '*/24' se quiser diariamente)
+
     - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write 
     steps:
-      # 1. Checa o código do repositório
+
       - uses: actions/checkout@v4
 
-      # 2. Gera a animação da cobrinha
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          # Seu nome de usuário do GitHub
+
           github_user_name: Manuelakist 
-          # Arquivo de saída da animação
+
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Faz o commit da animação gerada no repositório
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output # Cria ou atualiza a branch chamada 'output'
-          build_dir: dist # Onde a animação foi gerada
+          target_branch: output 
+          build_dir: dist 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
