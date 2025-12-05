@@ -4,10 +4,8 @@
 
 # Manuela Skrsypcsak Kist
 
-> Estudante de **Ciências da Computação**
-> Universidade Federal de Santa Catarina
+> Estudante de **Ciências da Computação** | UFSC
 
----
 
 ## Tecnologias & Ferramentas
 
@@ -18,16 +16,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuelakist&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![Manuela's GitHub Stats](https://github-readme-stats-k8e9.vercel.app/api?username=Manuelakist&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelakist&layout=compact&theme=tokyonight&cache_seconds=7200)
+![Top Langs](https://github-readme-stats-k8e9.vercel.app/api/top-langs/?username=Manuelakist&layout=compact&theme=tokyonight)
 
-
----
 
 ## Onde me encontrar
 [![Email](https://img.shields.io/badge/Email-manuelaskist11%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelaskist11@gmail.com)
