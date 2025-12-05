@@ -1,7 +1,3 @@
-<!-- Banner -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=251b9a&height=170&gradient)
-
-
 # Manuela Skrsypcsak Kist
 
 > Estudante de **Ciências da Computação** | UFSC
