@@ -15,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 <br>
 
 ## GitHub Stats
@@ -23,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats-k8e9.vercel.app/api?username=Manuelakist&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-k8e9.vercel.app/api/top-langs/?username=Manuelakist&layout=compact&theme=tokyonight"/>
 </p>
-
+<br>
 
 ## Onde me encontrar
 [![Email](https://img.shields.io/badge/Email-manuelaskist11%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelaskist11@gmail.com)
